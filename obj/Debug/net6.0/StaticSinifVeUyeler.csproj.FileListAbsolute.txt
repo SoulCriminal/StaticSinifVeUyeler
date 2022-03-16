@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\StaticSinifVeUyeler.exe
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\StaticSinifVeUyeler.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\StaticSinifVeUyeler.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\StaticSinifVeUyeler.dll
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\ref\StaticSinifVeUyeler.dll
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\bin\Debug\net6.0\StaticSinifVeUyeler.pdb
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.dll
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\ref\StaticSinifVeUyeler.dll
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.pdb
+C:\Users\MGM\Desktop\VsCode\C#\StaticSinifVeUyeler\obj\Debug\net6.0\StaticSinifVeUyeler.genruntimeconfig.cache
